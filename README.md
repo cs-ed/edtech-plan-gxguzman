@@ -2,6 +2,7 @@
 # Educational Technology Plan
 
 Provide a brief description of the purpose of your educational technology Plan
+The purpose of this Educational Technolugy Plan is to bring a computer science course to 
 
 ## Context
 
