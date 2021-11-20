@@ -1,7 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6341831&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-The purpose of this Educational Technology Plan is to introduce students to computer science. Currently, I teach Career Explorer and plan on offering this computer science course as an additional module to the career explorer elective. The long term goal is to teach this course as a stand alone elective. 
+The purpose of this Educational Technology Plan is to introduce students to computer science. Currently, I teach
+Career Explorer and plan on offering this computer science course as an additional module to the career explorer
+elective. The long term goal is to teach this course as a stand alone elective. 
 
 ## Context
 
