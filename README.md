@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6341831&assignment_repo_type=AssignmentRepo)
+
 # Educational Technology Plan
 
 The purpose of this Educational Technology Plan is to introduce students to computer science. Currently, I teach
@@ -9,32 +9,44 @@ elective. The long term goal is to teach this course as a stand alone elective.
 
 ### Course
 
-Describe your course including the name, description, and grade level
+The name of the course will be “Intro to Computer Science.” This course will focus on introducing students to basic computer skills and programming. It will be offered to 7th and 8th grade students. 
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
+Currently, I teach at Cesar Chavez Middle School which is situated within the Lynwood Unified School District. There are 702 students enrolled with 97.1% of the students being Hispanic/Latino, 2.2% Black/African American, and .7% White.  The school serves a student population that is 93.1% Socioeconomically Disadvantaged. 
+
+This school year the district has implemented a 1:1 computer program. Students that forget their chromebooks at home can check one out at the library. This ensures that students will have access to a device everyday. 
+
 
 ## Plan
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+The main platform/curriculum that will be used is going to be CodeHS. This being an introductory computer science course, the goal is going to be building interest within the school. The other platform that will be used is Scratch.
+
+Other platforms the will be used for communication and grading are the following:
+
+- Google Workspace
+- GoGuardian
+- Parent Square
+- Aeries 
+
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+Teacher
+- HP EliteBook 850 G5 Notebook PC
+
+Student
+- HP Chromebook x360 11MK G3 EE 
+
+Classroom
+- Promethean ActivPanel
+- Wifi
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+All activities will be planned to be completed during class time. The main purpose of this course is to expose students to computer programming. Additionally, students will gain experience with the various programming languages. Being that this course will be a module within my Career Explorer elective, the focus will be on students getting hands-on experience on computer programming and career pathways available.
 
 ### Impacts
 
