@@ -50,7 +50,4 @@ All activities will be planned to be completed during class time. The main purpo
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+The technology helps all students learn as modifications are made based on student needs. In case of a move to virtual learning, students are already equipped with a Chromebook. The main concern is connectivity. The school has provided hotspots to students that chose virtual learning this semester. Additionally, the school was able to provide hotspots to most students during the 2020-2021 school year. This is an area that will need to be addressed more closely. 
