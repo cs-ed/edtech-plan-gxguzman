@@ -34,11 +34,18 @@ Other platforms the will be used for communication and grading are the following
 
 ### Hardware Specifications
 
-Teacher
-- HP EliteBook 850 G5 Notebook PC
+Instructor:
+HP EliteBook 850 G5 Notebook PC
+3.90 GHz, 4-core, Intel CPU
+8 GB RAM
+512 GB SSD Storage
 
 Student
-- HP Chromebook x360 11MK G3 EE 
+HP Chromebook x360 11MK G3 EE 
+2.60 GHz, 2-core, Intel CPU
+8 GB RAM
+32 GB eMMC
+
 
 Classroom
 - Promethean ActivPanel
